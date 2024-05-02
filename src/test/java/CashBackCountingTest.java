@@ -1,6 +1,6 @@
 import org.example.CashBackCounting;
 import org.junit.Test;
-import org.junit.jupiter.api.Assertions;
+
 import static org.junit.Assert.assertEquals;
 
 public class CashBackCountingTest {
